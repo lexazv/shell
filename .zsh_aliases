@@ -1,0 +1,6 @@
+# System commands.
+alias ll='ls -l'
+alias la='ls -la'
+
+# Brew stuff.
+alias mc='source ~/bin/mc-wrapper-fix.sh --nosubshell'
